@@ -10,3 +10,6 @@ The study wil cover:
 - Jcopml
 - Torch
 - Matplotlib
+
+# Preview
+![example](/Screenshoot/Preview_Project.gif)
