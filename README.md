@@ -1,7 +1,8 @@
 # Introduction-to-Pytorch
-The content of this study is devide into two session, as followed:
+This session wil explain the implementation of Neural Network for structured data using Pytorch. 
+The study wil cover:
 - Basic introduction to Pytorch Workflow for Neural Network
-- Create Loof Function and Dropout on Pytorch
+- Create Loop Function & Dropout on Pytorch
 
 # Tools
 - Numpy
